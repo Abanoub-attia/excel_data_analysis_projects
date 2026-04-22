@@ -101,7 +101,7 @@ Both projects use a real-world dataset of **data science job postings from 2023*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abanoub-attia/ecxel_data_analysis_projects.git
+   git clone https://github.com/Abanoub-attia/excel_data_analysis_projects.git
    ```
 2. Navigate to either project folder
 3. Open the `.xlsx` file in **Microsoft Excel** (2016 or later recommended for full feature support)
