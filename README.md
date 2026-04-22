@@ -17,9 +17,11 @@ excel_data_analysis_projects/
 │   ├── 1_Salary_Dashboard.xlsx
 │   └── README.md
 │
-└── Project_2-Analysis/
-    ├── 1_Project_Analysis.xlsx
-    └── README.md
+├── Project_2-Analysis/
+│   ├── 1_Project_Analysis.xlsx
+│    └── README.md
+│
+└──  README.md
 ```
 
 ---
